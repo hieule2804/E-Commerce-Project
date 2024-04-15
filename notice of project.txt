@@ -1,0 +1,2 @@
+Tech: Spring boot , react , MySql
+Framework : FrontEnd : MUI , tailwind css
